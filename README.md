@@ -1,1 +1,1 @@
-# dma-mkdocs-terraform
+# mkdocs-terraform-json
